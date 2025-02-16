@@ -1,5 +1,5 @@
-Check out the [SwitchUpCB Guide](https://switchupcb.com/guide/software) for a list of software that is in active development or usable. 
+# Join a Community
 
-# Sponsor
+You can join a group of people who help you get what you want.
 
-Sponsor me at [`github.com/sponsors/switchupcb`](https://github.com/sponsors/switchupcb).
+[Get what you want with the SwitchUpCB Community now](https://switchupcb.com/community/).
